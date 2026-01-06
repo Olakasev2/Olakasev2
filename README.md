@@ -41,6 +41,14 @@
 <br clear="left">
 
 ---
+<!--## 🛠️ Trabajos Participados
+<p align="center">
+  <a href="https://sistemas.azc.uam.mx/Somos/Creditos/">
+    <img src="https://img.shields.io/badge/UAM%20Azcapotzalco-Créditos-d32f2f?style=for-the-badge&logo=graduation-cap&logoColor=white">
+  </a>
+</p>
+
+--- -->
 
 ## 🏹 Estadísticas de GitHub
 
@@ -49,18 +57,13 @@
 </p>
 
 ---
-
-## 📫 Contacto
 ## 📫 Contacto
 <p align="center">
   <a href="https://github.com/Olakasev2">
     <img src="https://img.shields.io/badge/GitHub-Olakasev2-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:tu_correo@ejemplo.com">
+  <a href="mailto:pabloservg15@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-7f3fbf?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/tuusuario">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
