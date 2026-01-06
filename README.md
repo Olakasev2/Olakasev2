@@ -32,10 +32,10 @@
   <img src="assets/nen.png" width="250" align="left">
   <p>
     <br><br><br>
-    • 💻 <b>Lenguajes:</b> C, C++, Java, Python<br>
-    • 🐧 <b>Sistemas:</b> Linux (Xubuntu), Windows<br>
-    • 🔧 <b>Herramientas:</b> Git, Docker, Unity, QEMU<br>
-    • 🌐 <b>Redes:</b> SSH, Samba, CUPS
+    • 💻 <b>Lenguajes:</b> C#, C++, Java<br>
+    • 🐧 <b>Sistemas:</b> Linux (Debian), Windows<br>
+    • 🔧 <b>Herramientas:</b> Git, Docker, Unity<br>
+    • 🌐 <b>Redes:</b> SSH, Samba
   </p>
 </p>
 <br clear="left">
@@ -51,9 +51,16 @@
 ---
 
 ## 📫 Contacto
+## 📫 Contacto
 <p align="center">
   <a href="https://github.com/Olakasev2">
     <img src="https://img.shields.io/badge/GitHub-Olakasev2-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:tu_correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-7f3fbf?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/tuusuario">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
