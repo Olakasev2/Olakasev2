@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Olakasec2&label=Profile%20views&color=0e75b6&style=flat" alt="Olakasev2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Olakasev2&label=Profile%20views&color=0e75b6&style=flat" alt="Olakasev2" /> </p>
 
 <!--
 **Olakasev2/Olakasev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
