@@ -1,10 +1,9 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="assets/pitou-banner.jpg" alt="Neferpitou" width="100%">
+  <img src="assets/banner.jpg" alt="Neferpitou" width="100%">
 </p>
-
-<h1 align="center">Hola 👋, soy Pablo</h1>
-<h3 align="center">Especialista en Nen | Desarrollador | Fan de Neferpitou</h3>
+<h1 align="center">Hola 👋, soy Pablo </h1>
+<h3 align="center">Tecnico en Informatica| Desarrollador | Fan de Hunter X Hunter</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Olakasev2&label=Visitas%20al%20perfil&color=7f3fbf&style=flat" alt="Olakasev2" />
@@ -13,34 +12,37 @@
 ---
 
 ## 🕷️ Sobre mí
-<p align="center">
-  <img src="assets/pitou.png" alt="Neferpitou" width="200">
+<p>
+  <img src="assets/pitou.png" alt="Neferpitou" width="250" align="left">
+  <p>
+    <br><br><br>
+    - 🔭 Trabajo en **proyectos personales y académicos** <br>
+    - 🌱 Aprendiendo **programación de sistemas, redes y simulación** <br>
+    - 👯 Abierto a colaborar en **proyectos complejos o experimentales** <br>
+    - 💬 Pregúntame sobre **C#, Linux**
+  </p>
 </p>
-
-- 🔭 Trabajo en **proyectos personales y académicos**
-- 🌱 Aprendiendo **programación de sistemas, redes y simulación**
-- 👯 Abierto a colaborar en **proyectos complejos o experimentales**
-- 💬 Pregúntame sobre **C, Linux, Docker, Unity**
-- ⚡ Dato curioso: *Mi Nen sería de tipo Especialista*
+<br clear="left">
 
 ---
 
-## 🧠 Habilidades (Nen)
-<p align="center">
-  <img src="assets/pitou-nen.png" alt="Nen de Neferpitou" width="400">
-</p>
+## 🧠 Habilidades
 
-- 💻 **Lenguajes:** C, C++, Java, Python  
-- 🐧 **Sistemas:** Linux (Xubuntu), Windows  
-- 🔧 **Herramientas:** Git, Docker, Unity, QEMU  
-- 🌐 **Redes:** SSH, Samba, CUPS  
+<p align="center">
+  <img src="assets/nen.png" width="250" align="left">
+  <p>
+    <br><br><br>
+    • 💻 <b>Lenguajes:</b> C, C++, Java, Python<br>
+    • 🐧 <b>Sistemas:</b> Linux (Xubuntu), Windows<br>
+    • 🔧 <b>Herramientas:</b> Git, Docker, Unity, QEMU<br>
+    • 🌐 <b>Redes:</b> SSH, Samba, CUPS
+  </p>
+</p>
+<br clear="left">
 
 ---
 
 ## 🏹 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olakasev2&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olakasev2&theme=tokyonight" />
@@ -58,7 +60,8 @@
 ---
 
 <p align="center">
-  <img src="assets/pitou.gif" alt="Neferpitou" width="280">
+  <img src="assets/Gon.gif" alt="Neferpitou" width="280">
+  <img src="assets/killua.gif" alt="Neferpitou" width="280">
 </p>
 
-⭐ *“Yo nací para proteger al Rey.”* — Neferpitou
+⭐ *“Disfruta los desvíos. En ellos encontrarás cosas más importantes que lo que buscas.”* — Ging Freecss
