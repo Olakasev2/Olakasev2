@@ -50,13 +50,13 @@
 
 --- -->
 
-## 🏹 Estadísticas de GitHub
+<!--## 🏹 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Olakasev2&theme=tokyonight" />
 </p>
 
----
+--- -->
 ## 📫 Contacto
 <p align="center">
   <a href="https://github.com/Olakasev2">
